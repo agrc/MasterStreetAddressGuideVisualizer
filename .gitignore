@@ -1,0 +1,8 @@
+*.class
+*.pyc
+*.pyo
+*.project
+*.pydevproject
+ToolModules/ToolRunner_Test.py
+ToolModules/data
+ToolModules/ToolRunner_Test.py
